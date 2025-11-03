@@ -1,4 +1,4 @@
-li:hover{
+.list-group-item:hover{
     background-color: hsl(0, 0%, 80%);
 }
 #container1{
